@@ -6,7 +6,7 @@
 
 </p>
 <p>
-  Objetivo: Aprender eventos e elementos do CSS e do JavaScript
+  Objetivo: Aprender gameloop, colisão e eventos do JavaScript
 </p>
 
 <footer>
