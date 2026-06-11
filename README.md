@@ -8,6 +8,7 @@
 <p>
   Objetivo: Aprender gameloop, colisão e eventos do JavaScript
 </p>
+<p>Aperte ESPAÇO para pular, F5 para reiniciar</p>
 
 <footer>
 Créditos do criador
