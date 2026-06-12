@@ -11,6 +11,8 @@
 <p>Aperte ESPAÇO para pular, F5 para reiniciar</p>
 
 <footer>
+Link do Projeto:
+<p>https://eric-takeda.github.io/Mario-Jump/</p>
 Créditos do criador
 <p>https://github.com/DiasEllen26</p>
 <p>https://github.com/DiasEllen26/mario-jump#demo-online-</p>
